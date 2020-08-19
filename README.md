@@ -11,7 +11,7 @@
 
 ### Some of my Github Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=code4kb&show_icons=true" alt="code4kb" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4kb&layout=compact" alt="code4kb"  align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4kb&layout=compact" alt="code4kb"  />
 </p>
