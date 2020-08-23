@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gabriel
 
-## a passionate Web Developer from Argentina
+## a passionate Web Developer
 
 - 🔭 I’m currently working on [⚡ Consume api rest with Vue.js](https://github.com/code4kb/consumir-api-rest-vuejs) and [⛅ simple weather app](https://github.com/code4kb/weather-app)
 
